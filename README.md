@@ -40,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Amzat19)
-- Twitter - [@yourusername](https://www.twitter.com/Kunmi49693753)
+- Frontend Mentor - [My FrontEnd Mentor account link](https://www.frontendmentor.io/profile/Amzat19)
+- Twitter - [My Twitter Link](https://www.twitter.com/Kunmi49693753)
 
