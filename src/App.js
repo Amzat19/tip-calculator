@@ -5,7 +5,6 @@ import {ReactComponent as Header} from './images/logo.svg';
 import { useState } from 'react';
 import { AppContainer } from './AppContainer';
 
-
 const Button = ({tip, handleClickTip, custom, handleCustomTip}) => {
   return (
     <>
@@ -71,7 +70,8 @@ function App() {
         <header>
           <Header/>
         </header>
-      <AppContainer>
+        <div className="main">
+          <AppContainer>
       <div className='first'>
         <div className='Bill'>
         <label htmlFor='number'>
@@ -131,6 +131,8 @@ function App() {
         </div>
       </div>
       </AppContainer>
+        </div>
+      
     </div>
   );
 }

@@ -6,13 +6,9 @@ export const AppContainer = styled.div`
   height: 350px;
   display: grid;
   grid-template-columns: repeat(2, 375px);
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
   border-radius: 20px;
   padding: 30px 0px 10px 30px;
-  margin-top: -20px;
+  margin-top: 50px;
 
   .second > .inside-div {
     background-color: var(--Very-dark-cyan);
@@ -163,6 +159,7 @@ export const AppContainer = styled.div`
     }
     
   }
+  
   @media (max-width: 800px) {
     display: grid;
     grid-template-columns: 350px;
