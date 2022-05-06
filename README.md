@@ -41,8 +41,6 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 
-
-
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Amzat19)
